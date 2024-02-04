@@ -9,10 +9,10 @@ keyboard = InlineKeyboardMarkup(
                     InlineKeyboardButton(text="بدا استخراج الجلسة 🖥️", callback_data="gensession")
                     ],
                     [
-                    InlineKeyboardButton("سـورس مافيا - Mafia", url="https://t.me/Egypt_113")
+                    InlineKeyboardButton("سـورس مافيا - Mafia", url="https://t.me/MAZADmafia")
                     ],
                     [
-                    InlineKeyboardButton(" الـمـطـور", url="t.me/lT_O_Xl"),
+                    InlineKeyboardButton(" الـمـطـور", url="t.me/T_O_Xl"),
                 ],
                 [
                     InlineKeyboardButton("الـمـطـور👷", user_id=OWNER_ID),
